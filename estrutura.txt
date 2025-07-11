@@ -1,0 +1,9 @@
+seu-site/
+├── index.html         (Página inicial)
+├── doces.html         (Tapiocas Doces)
+├── salgadas.html      (Tapiocas Salgadas)
+├── bebidas.html       (Bebidas)
+├── css/
+│   └── style.css      (Estilo principal)
+│   └── produtos.css   (Estilo específico para produtos)
+├── img/               (Todas as imagens)
