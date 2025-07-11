@@ -221,10 +221,11 @@ nav ul li a.active {
     color: #666;
 }
 
-.sobre-image img {
+.sobre-image video {
     width: 80%;
     border-radius: 10px;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    margin-top: 20px; /* Espaçamento se tiver imagem acima */
 }
 
 /* Contato Section */
